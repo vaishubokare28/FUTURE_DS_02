@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing **Facebook & Instagram ad campaign data** to evaluate digital marketing performance and user engagement.
+This project focuses on analyzing **Facebook ad campaign data** to evaluate digital marketing performance and user engagement.
 The goal is to convert raw advertising metrics into **clear, actionable insights** using an **interactive Power BI dashboard** that helps marketing teams optimize campaign strategy and budget allocation.
 
 ---
